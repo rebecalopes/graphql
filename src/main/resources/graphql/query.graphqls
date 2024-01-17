@@ -1,0 +1,4 @@
+# All avaliable queries on this graphl server
+type Query {
+    bankAccount(id: ID): BankAccount
+}
